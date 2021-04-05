@@ -1,3 +1,7 @@
+//OCAD DIGF-Body Centric Technologies
+//Final Project-Shoulders' feeling By Jessy
+//The code is referred to the example on the class of Creative and Computation
+
 #include <WiFiNINA.h>
 #define PubNub_BASE_CLIENT WiFiClient
 #include <PubNub.h>
